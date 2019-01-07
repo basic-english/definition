@@ -1,4 +1,4 @@
-#Basic English
+# Basic English
 
 "Basic English is an attempt to give to every one a second, or international language, which will take as little of the learner's time as possible. 
     It is a system in which everything may be said for all the purposes of everyday existence : the common interests of men and women, general talk, news, trade, and science. 
