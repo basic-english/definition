@@ -1,7 +1,7 @@
 # Basic English
 
-"Basic English is an attempt to give to every one a second, or international language, which will take as little of the learner's time as possible.<br>
-It is a system in which everything may be said for all the purposes of everyday existence : the common interests of men and women, general talk, news, trade, and science. <br>To the eye and ear it will not seem in any way different from normal English, which is now the natural language or the language of the Governments of more than 500,000,000 persons. <br>
+" Basic English is an attempt to give to every one a second, or international language, which will take as little of the learner's time as possible.<br>
+  It is a system in which everything may be said for all the purposes of everyday existence : the common interests of men and women, general talk, news, trade, and science. <br>To the eye and ear it will not seem in any way different from normal English, which is now the natural language or the language of the Governments of more than 500,000,000 persons. <br>
 There are only 850 words in the complete list, which may be clearly printed on one side of a bit of note-paper. But simple rules are given for making other words with the help of those in the list ; such as designer, designing, and designed, from design, or coal-mine from coal and mine. <br>
 The word order is fixed by other short rules, which make it clear from an example such as: "I will put the record on the machine now ", - what is the right and natural place for every sort of word. <br>
 Whatever is doing the act comes first ; then the time word, such as will ; then the act or operation (put, take, or get) ; then the thing to which something is done, and so on. <br>
