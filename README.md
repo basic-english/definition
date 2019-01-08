@@ -21,3 +21,14 @@ https://simple.wikipedia.org/wiki/Basic_English
 http://ogden.basic-english.org/rules.html
 <br>
 http://www.basic-english.org/
+<br>
+<br>
+## Other links
+<br>
+https://www.avntk.com/index.html
+<br>
+https://www.avntk.com/BasicEnglishAI.htm
+<br>
+https://www.rachaelrepp.org/
+<br>
+
